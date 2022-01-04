@@ -1,2 +1,2 @@
 this is a random test for pushing things to github
-this is a super secret file, DO NOT READ
+this is a super public file, PLEASE READ
